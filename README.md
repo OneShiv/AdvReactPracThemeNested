@@ -1,2 +1,0 @@
-# AdvReactPracThemeNested
-Created with CodeSandbox
